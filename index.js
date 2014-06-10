@@ -13,7 +13,7 @@ var request = require('request')
 };
 
 module.exports = function(host, query, res) {
-	, promises = []
+	var promises = []
 	, parameters = []
 	, dataObj = {};
 	for(var parameter in query) {

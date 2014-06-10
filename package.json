@@ -2,7 +2,7 @@
   "name": "multiget-express",
   "description": "A very simple npm module to manage multiple api calls with the Express framework",
   "author": "Javier Alba <javierosvaldoalba@gmail.com> (http://github.com/jalba)",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "license": "MIT",
   "repository": {
